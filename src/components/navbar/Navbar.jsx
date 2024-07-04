@@ -13,9 +13,10 @@ const Navbar = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
         >
-          Lama Dev
+          Sahidul's Portfolio
         </motion.span>
         <div className="social">
+          <h1 className="text-red-500">hello</h1>
           <a href="#">
             <img src="/facebook.png" alt="" />
           </a>
